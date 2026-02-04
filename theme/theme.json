@@ -1,0 +1,21 @@
+{
+    "title": "Diasa",
+    "subTitle": "",
+    "styles": ["../css/smgemWebchat.css"],
+    "fonts": ["../fonts/fonts.css"],
+    "placeholder": "Escribe tu mensaje aquí",
+    "isMarkdown": true,
+    "chatHistory": "off",
+    "cardOptions": {
+      "direction": "horizontal",
+      "slidesPerView": 1.5,
+      "centeredSlides": true,
+      "spaceBetween": 10,
+      "navigation": true,
+      "pagination": { "clickable": true },
+      "keyboard": {
+        "enabled": true
+      },
+      "centeredSlidesBounds": true
+    }
+}
